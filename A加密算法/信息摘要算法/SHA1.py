@@ -1,5 +1,4 @@
 # -*- coding:utf8 -*-
-# @Author : Sky
 # @Time : 2022/6/16 12:27
 # @File : SHA1.py
 # @SoftWare : Pycharm
