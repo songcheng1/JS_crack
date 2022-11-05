@@ -1,5 +1,4 @@
 # -*- coding:utf8 -*-
-# @Author : Sky
 # @Time : 2022/6/19 0:02
 # @File : AES-ECB.py
 # @SoftWare : Pycharm
