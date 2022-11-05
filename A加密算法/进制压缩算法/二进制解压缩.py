@@ -1,5 +1,4 @@
 # -*- coding:utf8 -*-
-# @Author : Sky
 # @Time : 2022/6/24 14:43
 # @File : 二进制解压缩.py
 # @SoftWare : Pycharm
