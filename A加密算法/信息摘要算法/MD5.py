@@ -1,5 +1,4 @@
 # -*- coding:utf8 -*-
-# @Author : Sky
 # @Time : 2022/6/16 12:26
 # @File : MD5.py
 # @SoftWare : Pycharm
