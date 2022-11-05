@@ -1,5 +1,4 @@
 # -*- coding:utf8 -*-
-# @Author : Sky
 # @Time : 2022/6/15 17:28
 # @File : AESdemo.py
 # @SoftWare : Pycharm
