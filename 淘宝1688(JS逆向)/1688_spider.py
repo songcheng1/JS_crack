@@ -1,5 +1,4 @@
 # -*- coding:utf8 -*-
-# @Author : Sky
 # @Time : 2022/6/22 20:55
 # @File : 1688_spider.py
 # @SoftWare : Pycharm
