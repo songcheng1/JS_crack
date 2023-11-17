@@ -1,9 +1,4 @@
 # -*- coding:utf8 -*-
-# @Author : Sky
-# @Time : 2022/6/24 14:16
-# @File : mt_spider.py
-# @SoftWare : Pycharm
-
 """
 请求参数：_token加密 （二进制压缩）
 目前最主要的密码压缩分为二进制压缩(返回数组)和十六进制压缩(返回字节)
